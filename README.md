@@ -38,3 +38,26 @@ For updates of `com.sinatools.vaultora`, install over the same package. The prev
 [Privacy / حریم خصوصی](PRIVACY.md)
 
 This repository distributes the signed app and user guide. Private signing keys and local build credentials are not published.
+
+<!-- STORE-GALLERY -->
+
+## Screenshots | تصاویر برنامه
+
+App screens in English and Persian; sample content is used where needed.
+
+### English
+
+<img src="screenshots/en/01-home.png" width="240" alt="Vaultora en 01-home" />
+<img src="screenshots/en/02-generator.png" width="240" alt="Vaultora en 02-generator" />
+<img src="screenshots/en/03-vault.png" width="240" alt="Vaultora en 03-vault" />
+<img src="screenshots/en/04-demo-record.png" width="240" alt="Vaultora en 04-demo-record" />
+<img src="screenshots/en/05-settings.png" width="240" alt="Vaultora en 05-settings" />
+
+### فارسی
+
+<img src="screenshots/fa/01-home.png" width="240" alt="Vaultora fa 01-home" />
+<img src="screenshots/fa/02-generator.png" width="240" alt="Vaultora fa 02-generator" />
+<img src="screenshots/fa/03-vault.png" width="240" alt="Vaultora fa 03-vault" />
+<img src="screenshots/fa/04-demo-record.png" width="240" alt="Vaultora fa 04-demo-record" />
+<img src="screenshots/fa/05-settings.png" width="240" alt="Vaultora fa 05-settings" />
+
