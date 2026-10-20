@@ -30,10 +30,10 @@ Only a native banner in Settings; no ads on the lock screen, generator, vault li
 
 ## Download and updates | دریافت و به‌روزرسانی
 
-Android APK, version **1.0.4**. Package: `com.aistudio.vaultora.secapp`.
-For updates, install over the existing app to preserve its local data. Do not uninstall first.
+Android APK, version **1.0.5**. Package: `com.sinatools.vaultora`.
+For updates of `com.sinatools.vaultora`, install over the same package. The previous `com.aistudio.vaultora.secapp` app is a separate Android application: export an encrypted backup from it and import that backup into this version before removing the old app. Data does not transfer automatically.
 
-برای حفظ اطلاعات، نسخه جدید را روی نسخه قبلی نصب کنید؛ ابتدا برنامه را حذف نکنید.
+نسخه‌های دارای بستهٔ `com.sinatools.vaultora` روی یکدیگر به‌روز می‌شوند. نسخهٔ قدیمی با بستهٔ `com.aistudio.vaultora.secapp` برنامه‌ای جداست؛ ابتدا از آن پشتیبان رمزگذاری‌شده بگیرید و در نسخهٔ جدید وارد کنید. تنها پس از اطمینان از انتقال اطلاعات، نسخهٔ قدیمی را حذف کنید.
 
 [Privacy / حریم خصوصی](PRIVACY.md)
 
